@@ -1,0 +1,48 @@
+.navbar {
+    box-shadow: 2px 2px 5px rgb(0, 0, 0);
+    opacity: .9;
+    background-color: orange;
+  }
+.navbar-brand img {
+    width: 100px;
+    height: 100px;
+}
+.container {
+    border: solid;
+}
+.card {
+    margin-left: 25px ;
+    padding: 0px;
+}
+body {
+    background-color: rgb(224, 219, 210);
+}
+img {
+    display: block;
+}
+.navbar .nav-item .nav-link {
+    color:black;
+    
+}
+.carousel-item img {
+    width: 150px;
+    height: 400px;
+}
+.media img {
+    width: 420px;
+    height: 200px;
+}
+.main-header{
+    background: url(../img/background.jpg);
+}
+
+.card {
+    display: block;
+    float: left;
+}
+.img-thumbnail {
+    display: block;
+}
+img {
+    width: 100%;
+}
