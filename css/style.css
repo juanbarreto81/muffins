@@ -11,8 +11,28 @@
     width: 75%;
     margin: 0px auto;
 }
-
-
+.contacto ul li a img{
+    display:block;
+    float: left;
+    width:20%;
+    margin: 10px 25px;
+    height: 10%;
+    
+  }
+h2 {
+    text-align: center;
+}
+  ul {
+    list-style: none;
+    }
+ 
+  .contacto a {
+    max-width: 100%;
+    position: relative;
+    margin: auto;
+    display: block;
+    text-align: center;
+  }
 
 .card {
     margin-left: 25px ;
