@@ -7,9 +7,13 @@
     width: 100px;
     height: 100px;
 }
-.container {
-    border: solid;
+.carousel{
+    width: 75%;
+    margin: 0px auto;
 }
+
+
+
 .card {
     margin-left: 25px ;
     padding: 0px;
